@@ -42,8 +42,8 @@
 *.dwo
 
 
-.cache
-.vscode
+.cache/*
+.vscode/*
 build/*
-src/antlr4/codegen
-src/antlr4/.antlr
+src/antlr4/codegen/*
+src/antlr4/.antlr/*
