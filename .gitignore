@@ -17,6 +17,7 @@
 # Debugger Files
 *.pdb
 
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
@@ -39,3 +40,10 @@
 
 # debug information files
 *.dwo
+
+
+.cache
+.vscode
+build
+src/antlr4/codegen
+src/antlr4/.antlr

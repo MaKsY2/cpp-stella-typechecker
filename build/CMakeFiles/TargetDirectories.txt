@@ -1,0 +1,3 @@
+/Users/shvydkiy/Documents/Code/study/language-types/project/cpp-stella-typechecker/build/CMakeFiles/stella-typechecker.dir
+/Users/shvydkiy/Documents/Code/study/language-types/project/cpp-stella-typechecker/build/CMakeFiles/edit_cache.dir
+/Users/shvydkiy/Documents/Code/study/language-types/project/cpp-stella-typechecker/build/CMakeFiles/rebuild_cache.dir
