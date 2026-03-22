@@ -44,6 +44,6 @@
 
 .cache
 .vscode
-build
+build/*
 src/antlr4/codegen
 src/antlr4/.antlr
